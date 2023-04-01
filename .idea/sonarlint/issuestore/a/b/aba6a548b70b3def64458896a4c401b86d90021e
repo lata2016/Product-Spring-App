@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Δ΄ϊώÿÿÿÿ8°γµσ0
+g
+java:S4488$"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Δ―ΐ8Κγµσ0
+]	java:S125."<This block of commented-out lines of code should be removed.(ώΨΥ«ωÿÿÿÿ8Ογµσ0
+w
+java:S1128"URemove this unused import 'org.springframework.data.repository.RepositoryDefinition'.(ένόÿÿÿÿ8Òγµσ0
+W
+java:S1144";Remove this unused private "ProductController" constructor.(―‚Λ8Òγµσ0
